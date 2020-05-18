@@ -18,6 +18,11 @@ html,
   text-align: center;
 }
 
+.container button{
+    width: 250px;
+    height: 200px;
+}
+
 .title {
   font-size: 3rem;
 }
